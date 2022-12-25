@@ -13,10 +13,10 @@ google-landing-page (folder)
 |----images
         |----appicon.png
         |----gfavicon.png
-|----google_microphone.png
-|----googlelogo.png
-|----icon-menu.jpg
-|----magnifying_glass.png
+        |----google_microphone.png
+        |----googlelogo.png
+        |----icon-menu.jpg
+        |----magnifying_glass.png
 |----index.html
 |----style.css
 ```
