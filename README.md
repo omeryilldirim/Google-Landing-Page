@@ -7,16 +7,16 @@ Project aims to create google landing page.
 ## Project Skeleton
 
 ```
-002-google-landing-page (folder)
+google-landing-page (folder)
 |
 |----readme.md
 |----images
         |----appicon.png
         |----gfavicon.png
-        |----google_microphone.png
-		|----googlelogo.png
-		|----icon-menu.jpg
-		|----magnifying_glass.png
+|----google_microphone.png
+|----googlelogo.png
+|----icon-menu.jpg
+|----magnifying_glass.png
 |----index.html
 |----style.css
 ```
