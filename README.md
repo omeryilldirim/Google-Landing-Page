@@ -1,32 +1,33 @@
 # Google-Landing-Page
 
 ## Description
+
 Project aims to create google landing page.
 
-## Project Skeleton 
+## Project Skeleton
 
 ```
 002-google-landing-page (folder)
 |
-|----readme.md        
-|----images   
-        |----appicon.png   
+|----readme.md
+|----images
+        |----appicon.png
         |----gfavicon.png
-		|----google_microphone.png
+        |----google_microphone.png
 		|----googlelogo.png
 		|----icon-menu.jpg
 		|----magnifying_glass.png
-|----index.html  
-|----style.css   
+|----index.html
+|----style.css
 ```
 
 ## Expected Outcome
 
-![Project 002 Snapshot](Project_002_.png)
+![Project Snapshot](project-snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML 
+- HTML
 
 - List Properties-Tables / CSS-The Display Property-The position Property
 
@@ -39,4 +40,3 @@ Project aims to create google landing page.
 - used git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 <p align='center'> ⌛ Happy Coding ✍ - Please feel free to check my work ! 🙃 </p>
-
